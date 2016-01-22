@@ -1,0 +1,136 @@
+html {
+
+}
+body {
+  margin: auto;/*center page*/
+}
+li a {
+  text-decoration: none;
+}
+
+.section1 {
+  width: 100%;
+  height: 90vh;
+  background-image: url("../image/img1.png");
+  background-size: 111%;
+  margin: 0;
+  color: rgb(255, 255, 255);
+}
+.section1 img {
+  margin-top: 10px;
+  height: 5vh;
+}
+.h1a{
+  display: inline;
+  width: 70%;
+  margin: 10px;
+  height: 5vh;
+}
+.h1a h1 {
+  line-height: 5vh;
+  margin-bottom: 10px;
+}
+.section1 ul {
+  width: 20%;
+  float: right;
+  display: inline;
+}
+.section1 li {
+  display: inline-block;
+  color: rgb(255, 255, 255);
+
+}
+.content1 {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.content1 a {
+  height: 10;
+  text-decoration: none;
+  background-color: rgb(255, 255, 255);
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+section {
+  text-align: center;
+}
+.app {
+  text-align: center;
+  width: 30%;
+  display: inline-block;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.app img {
+  width: 20%
+}
+.part2 {
+  background-color: rgb(246, 249, 251);
+  border-top: 1px solid rgb(87, 87, 87);
+  text-align: center;
+  height: 100%;
+  margin: 0;
+}
+.part3 {
+  background-color: #4C535C;
+  height: 15vh;
+}
+.part3 h2 {
+  color: rgb(255, 255, 255);
+  line-height: 15vh;
+  margin: 0;
+}
+.article {
+  width: 49.4vw;
+  height: 70vh;
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+}
+.article img {
+  margin-top: 10vh;
+  width: 80%;
+  border-radius: 15px;
+}
+#a1 {
+  background-color: rgb(124, 213, 239);
+}
+#a2 {
+  float: right;
+}
+#a2 p {
+  width: 80%;
+  margin: 10%;
+}
+#a4 {
+  float: right;
+  background-color: rgb(128, 128, 190);
+}
+
+#a5 {
+  background-color: rgb(124, 213, 239);
+}
+#a6 {
+  float: right;
+}
+.content5 {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-top: 1px solid rgb(87, 87, 87);
+  margin: 0;
+  height: 35vh;
+}
+.content5 a {
+  height: 10;
+  text-decoration: none;
+  background-color: rgb(0, 170, 130);
+  padding: 10px 40px;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+.content5 h2 {
+  margin: 50px;
+}
